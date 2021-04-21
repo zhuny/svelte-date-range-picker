@@ -337,6 +337,7 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: center;
   }
 
   .s-date-range-picker :global(.calendar-row) {
